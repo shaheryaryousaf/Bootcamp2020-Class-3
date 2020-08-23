@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>HELLO WORLD</h1>
-      <Info city="Faisalabad" profession="Freelance Web Developer" />
+      <Info city="Faisalabad" profession="Freelancer" />
     </div>
   );
 }
